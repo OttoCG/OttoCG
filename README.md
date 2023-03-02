@@ -1,5 +1,7 @@
 - Atualmente estudando na Universidade Virtual do Estado de São Paulo ( UNIVESP )
 - Começando no mundo dos códigos
+- Reforçando os estudos com Rocketseat e Alura
+- Focando em JavaScript , HTML e Python , porém pretendo também começar a estudar para React , CSS e Kotlin
 
 <!--
 **OttoCG/OttoCG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
