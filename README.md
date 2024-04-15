@@ -30,9 +30,6 @@
   <a href = "mailto:ottogioia20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otto-balder-57169b23a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Otto/30-nites-of-code)  
-  ![@Otto #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Otto)
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
